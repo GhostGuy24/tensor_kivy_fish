@@ -3,6 +3,8 @@ astunparse==1.6.3
 cachetools==5.5.2
 certifi==2025.1.31
 charset-normalizer==3.4.1
+docutils==0.21.2
+filetype==1.2.0
 flatbuffers==1.12
 gast==0.4.0
 google-auth==2.38.0
@@ -13,6 +15,8 @@ h5py==3.13.0
 idna==3.10
 keras==2.9.0
 Keras-Preprocessing==1.1.2
+Kivy==2.3.1
+Kivy-Garden==0.1.5
 libclang==18.1.1
 Markdown==3.7
 markdown-it-py==3.0.0
