@@ -17,8 +17,8 @@ This project is a **Kivy-based image classification application** that uses a **
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/kivy-image-classifier.git
-cd kivy-image-classifier
+git clone https://github.com/GhostGuy24/tensor_kivy_fish
+cd tensor_kivy_fish
 ```
 
 ### 2️⃣ Install Dependencies
